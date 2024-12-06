@@ -41,4 +41,3 @@ Important Notes:
 - Security Warning: The script currently has hardcoded credentials for logging into Google. Consider using more secure methods like environment variables or prompting for credentials at runtime.
 - Captcha: Google might trigger captcha challenges if it detects automated behavior. Be aware that this script may not always work due to such protections.
 - Excel Structure: Ensure your Excel file is correctly formatted, with no missing or extra columns.
-- License: This project is licensed under the MIT License.
